@@ -22,8 +22,8 @@ This project uses various computer vision and natural language processing techni
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/skin-care-analysis.git
-    cd skin-care-analysis
+    git clone https://github.com/malikmoaz01/FaceInsight-Deep-Learning.git
+    cd FaceInsight-Deep-Learning
     ```
 
 2. Install the required Python packages:
