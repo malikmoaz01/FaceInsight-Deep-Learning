@@ -52,7 +52,7 @@ This project uses various computer vision and natural language processing techni
 To run the script, execute the following command:
 
 ```bash
-python main.py
+python project.py
 ```
 
 Replace `main.py` with the script filename if it differs.
